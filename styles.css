@@ -37,9 +37,6 @@ body{
 .flip-card {
     width: 150px;
     height: 200px;
-    border: 1px solid black;
-    border-radius: 10%;
-    box-shadow: 0 3px 15px rgba(100,100,100,0.5);
     margin: 10px;
     text-align: center;
     perspective: 1000px; 
